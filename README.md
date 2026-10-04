@@ -32,12 +32,6 @@
   <img src="https://steam-widget.com/widget/img?id=76561198817462826&amp;playingRightNow=true&amp;style=MIDNIGHT&amp;width=700&amp;purpose=github_profile" alt="rekt0ro Steam profile" />
 </a>
 
-<br><br>
-
-<a href="https://steamcommunity.com/profiles/76561198817462826">
-  <img src="https://img.shields.io/badge/Steam-View_Profile-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile Badge" />
-</a>
-
 </div>
 
 <br>
