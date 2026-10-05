@@ -38,5 +38,5 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <sub><i>v19.9.2 - Stable Release</i></sub>
+  <sub>v19.9.2 - Stable Release</sub>
 </div>
