@@ -15,10 +15,10 @@
 
 <div align="center">
   <a href="https://github.com/rekt0ro/ProxyRift">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekt0ro&repo=ProxyRift&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="ProxyRift" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekt0ro&repo=ProxyRift&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="ProxyRift" width="48%" />
   </a>
   <a href="https://github.com/rekt0ro/CS2-Server-Blocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekt0ro&repo=CS2-Server-Blocker&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="CS2 Server Blocker" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rekt0ro&repo=CS2-Server-Blocker&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="CS2 Server Blocker" width="48%" />
   </a>
 </div>
 
